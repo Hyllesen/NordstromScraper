@@ -1,0 +1,445 @@
+{
+  "ResultType": "Default",
+  "TotalProductCount": 1058,
+  "Products": [
+    {
+      "SkuId": 39217657,
+      "Id": 4014522,
+      "StyleNumber": "1094314",
+      "PathAlias": "dress-the-population-zoe-sequin-minidress",
+      "Name": "Dress the Population Zoe Sequin Minidress",
+      "IsOutfit": false,
+      "SaleFlag": "Regular",
+      "AgeGroup": "A",
+      "Gender": "F",
+      "IsFulfillmentCenterAvailable": false,
+      "AvailableForHoliday": false,
+      "AverageRating": 4.1,
+      "CountOfReviews": 158,
+      "BrandLabelId": 9209,
+      "BrandLabelName": "DRESS THE POPULATION",
+      "IsEligibleForStorePickup": true,
+      "IsNew": false,
+      "ImsProductTypeId": 1,
+      "Media": [
+        {
+          "Type": "MainImage",
+          "Path": "/4/_103695204.jpg",
+          "IsDefault": false
+        },
+        { "Type": "AltImage", "Path": "/19/_103695339.jpg", "IsDefault": false }
+      ],
+      "SwatchSpriteUri": "http://s.nordstromimage.com/ImageDelivery/swatchsprite.jpg?photos=18_100057698-9_102660189-10_103695230-1_103695201&width=12&height=12&ql=60",
+      "Score": 2388446.5,
+      "Colors": [
+        {
+          "Name": "MATTE BLACK",
+          "Type": 0,
+          "IsDefault": false,
+          "Media": [
+            {
+              "Type": "Swatch",
+              "Path": "18/_100057698.jpg",
+              "IsDefault": false
+            },
+            {
+              "Type": "MainImage",
+              "Path": "1/_100057701.jpg",
+              "IsDefault": false
+            },
+            {
+              "Type": "AltImage",
+              "Path": "0/_13453160.jpg",
+              "IsDefault": false
+            }
+          ],
+          "StandardColors": ["Black"],
+          "RgbColor": null
+        },
+        {
+          "Name": "BRASS",
+          "Type": 0,
+          "IsDefault": false,
+          "Media": [
+            {
+              "Type": "Swatch",
+              "Path": "9/_102660189.jpg",
+              "IsDefault": false
+            },
+            {
+              "Type": "MainImage",
+              "Path": "10/_102660190.jpg",
+              "IsDefault": false
+            },
+            {
+              "Type": "AltImage",
+              "Path": "3/_102660203.jpg",
+              "IsDefault": false
+            }
+          ],
+          "StandardColors": ["Metallic"],
+          "RgbColor": null
+        },
+        {
+          "Name": "MATTE BRONZE MULTI",
+          "Type": 0,
+          "IsDefault": false,
+          "Media": [
+            {
+              "Type": "Swatch",
+              "Path": "10/_103695230.jpg",
+              "IsDefault": false
+            },
+            {
+              "Type": "MainImage",
+              "Path": "19/_103695239.jpg",
+              "IsDefault": false
+            },
+            {
+              "Type": "AltImage",
+              "Path": "1/_103695501.jpg",
+              "IsDefault": false
+            }
+          ],
+          "StandardColors": ["Metallic"],
+          "RgbColor": null
+        },
+        {
+          "Name": "ROUGE RED MULTI",
+          "Type": 0,
+          "IsDefault": false,
+          "Media": [
+            {
+              "Type": "Swatch",
+              "Path": "1/_103695201.jpg",
+              "IsDefault": false
+            },
+            {
+              "Type": "MainImage",
+              "Path": "4/_103695204.jpg",
+              "IsDefault": false
+            },
+            {
+              "Type": "AltImage",
+              "Path": "19/_103695339.jpg",
+              "IsDefault": false
+            }
+          ],
+          "StandardColors": ["Red"],
+          "RgbColor": null
+        }
+      ],
+      "SpecialTreatmentType": "Regular",
+      "ProductFlag": "None",
+      "IsGiftBoxEligible": false,
+      "Price": {
+        "OriginalMinPrice": 1402.49,
+        "OriginalMaxPrice": 1529.99,
+        "CurrentMinPrice": 1402.49,
+        "CurrentMaxPrice": 1529.99,
+        "MinPercentOff": 0.0,
+        "MaxPercentOff": 0.0,
+        "IsPriceSuppressed": false,
+        "IsUmap": false,
+        "IsLimitedTimeSavings": false,
+        "LimitedTimeSavingsStartDate": null,
+        "LimitedTimeSavingsEndDate": null,
+        "LimitedTimeSavingsMinPrice": null,
+        "LimitedTimeSavingsMaxPrice": null,
+        "LimitedTimeSavingsPercentOff": null,
+        "LimitedTimeSavingsPromoName": null
+      },
+      "BrandSuppressPrice": false,
+      "StoreAvailability": null
+    },
+    {
+      "SkuId": 39217716,
+      "Id": 5051038,
+      "StyleNumber": "5688664",
+      "PathAlias": "dress-the-population-emery-scoop-back-dress",
+      "Name": "Dress the Population Emery Scoop Back Dress",
+      "IsOutfit": false,
+      "SaleFlag": "Sale",
+      "AgeGroup": "A",
+      "Gender": "F",
+      "IsFulfillmentCenterAvailable": false,
+      "AvailableForHoliday": false,
+      "AverageRating": 4.6,
+      "CountOfReviews": 7,
+      "BrandLabelId": 9209,
+      "BrandLabelName": "DRESS THE POPULATION",
+      "IsEligibleForStorePickup": true,
+      "IsNew": true,
+      "ImsProductTypeId": 1,
+      "Media": [
+        {
+          "Type": "MainImage",
+          "Path": "/15/_103905775.jpg",
+          "IsDefault": false
+        },
+        { "Type": "AltImage", "Path": "/14/_103906334.jpg", "IsDefault": false }
+      ],
+      "SwatchSpriteUri": "http://s.nordstromimage.com/ImageDelivery/swatchsprite.jpg?photos=17_104696857&width=12&height=12&ql=60",
+      "Score": 2387365.5,
+      "Colors": [
+        {
+          "Name": "ROUGE RED MULTI",
+          "Type": 0,
+          "IsDefault": false,
+          "Media": [
+            {
+              "Type": "Swatch",
+              "Path": "17/_104696857.jpg",
+              "IsDefault": false
+            },
+            {
+              "Type": "MainImage",
+              "Path": "15/_103905775.jpg",
+              "IsDefault": false
+            },
+            {
+              "Type": "AltImage",
+              "Path": "14/_103906334.jpg",
+              "IsDefault": false
+            }
+          ],
+          "StandardColors": ["Red"],
+          "RgbColor": null
+        }
+      ],
+      "SpecialTreatmentType": "Regular",
+      "ProductFlag": "None",
+      "IsGiftBoxEligible": false,
+      "Price": {
+        "OriginalMinPrice": 1947.9,
+        "OriginalMaxPrice": 1947.9,
+        "CurrentMinPrice": 1168.6,
+        "CurrentMaxPrice": 1168.6,
+        "MinPercentOff": 40.0,
+        "MaxPercentOff": 40.0,
+        "IsPriceSuppressed": false,
+        "IsUmap": false,
+        "IsLimitedTimeSavings": false,
+        "LimitedTimeSavingsStartDate": null,
+        "LimitedTimeSavingsEndDate": null,
+        "LimitedTimeSavingsMinPrice": null,
+        "LimitedTimeSavingsMaxPrice": null,
+        "LimitedTimeSavingsPercentOff": null,
+        "LimitedTimeSavingsPromoName": null
+      },
+      "BrandSuppressPrice": false,
+      "StoreAvailability": null
+    },
+    {
+      "SkuId": 39311276,
+      "Id": 5062928,
+      "StyleNumber": "5697577",
+      "PathAlias": "something-navy-ruched-detail-dress-nordstrom-exclusive",
+      "Name": "Something Navy Ruched Detail Dress (Nordstrom Exclusive)",
+      "IsOutfit": false,
+      "SaleFlag": "Regular",
+      "AgeGroup": "A",
+      "Gender": "F",
+      "IsFulfillmentCenterAvailable": false,
+      "AvailableForHoliday": false,
+      "AverageRating": 3.1,
+      "CountOfReviews": 8,
+      "BrandLabelId": 18646,
+      "BrandLabelName": "SOMETHING NAVY",
+      "IsEligibleForStorePickup": true,
+      "IsNew": false,
+      "ImsProductTypeId": 1,
+      "Media": [
+        {
+          "Type": "MainImage",
+          "Path": "/17/_104701797.jpg",
+          "IsDefault": false
+        },
+        { "Type": "AltImage", "Path": "/14/_104701494.jpg", "IsDefault": false }
+      ],
+      "SwatchSpriteUri": "http://s.nordstromimage.com/ImageDelivery/swatchsprite.jpg?photos=6_104701786-12_104701812-7_104701767-19_104701639&width=12&height=12&ql=60",
+      "Score": 2386799.0,
+      "Colors": [
+        {
+          "Name": "PURPLE IMPERIAL",
+          "Type": 0,
+          "IsDefault": false,
+          "Media": [
+            {
+              "Type": "Swatch",
+              "Path": "6/_104701786.jpg",
+              "IsDefault": false
+            },
+            {
+              "Type": "MainImage",
+              "Path": "10/_104701790.jpg",
+              "IsDefault": false
+            },
+            {
+              "Type": "AltImage",
+              "Path": "19/_104698059.jpg",
+              "IsDefault": false
+            }
+          ],
+          "StandardColors": ["Purple"],
+          "RgbColor": null
+        },
+        {
+          "Name": "RED SCARLET",
+          "Type": 0,
+          "IsDefault": false,
+          "Media": [
+            {
+              "Type": "Swatch",
+              "Path": "12/_104701812.jpg",
+              "IsDefault": false
+            },
+            {
+              "Type": "MainImage",
+              "Path": "17/_104701797.jpg",
+              "IsDefault": false
+            },
+            {
+              "Type": "AltImage",
+              "Path": "14/_104701494.jpg",
+              "IsDefault": false
+            }
+          ],
+          "StandardColors": ["Red"],
+          "RgbColor": null
+        },
+        {
+          "Name": "BLACK",
+          "Type": 0,
+          "IsDefault": false,
+          "Media": [
+            {
+              "Type": "Swatch",
+              "Path": "7/_104701767.jpg",
+              "IsDefault": false
+            },
+            {
+              "Type": "MainImage",
+              "Path": "4/_104701744.jpg",
+              "IsDefault": false
+            },
+            {
+              "Type": "AltImage",
+              "Path": "16/_104701816.jpg",
+              "IsDefault": false
+            }
+          ],
+          "StandardColors": ["Black"],
+          "RgbColor": null
+        },
+        {
+          "Name": "GREY DARK CHARCOAL HEATHER",
+          "Type": 0,
+          "IsDefault": false,
+          "Media": [
+            {
+              "Type": "Swatch",
+              "Path": "19/_104701639.jpg",
+              "IsDefault": false
+            },
+            {
+              "Type": "MainImage",
+              "Path": "14/_104701574.jpg",
+              "IsDefault": false
+            },
+            {
+              "Type": "AltImage",
+              "Path": "9/_104701409.jpg",
+              "IsDefault": false
+            }
+          ],
+          "StandardColors": ["Grey"],
+          "RgbColor": null
+        }
+      ],
+      "SpecialTreatmentType": "Regular",
+      "ProductFlag": "None",
+      "IsGiftBoxEligible": true,
+      "Price": {
+        "OriginalMinPrice": 559.58,
+        "OriginalMaxPrice": 559.58,
+        "CurrentMinPrice": 559.58,
+        "CurrentMaxPrice": 559.58,
+        "MinPercentOff": 0.0,
+        "MaxPercentOff": 0.0,
+        "IsPriceSuppressed": false,
+        "IsUmap": false,
+        "IsLimitedTimeSavings": false,
+        "LimitedTimeSavingsStartDate": null,
+        "LimitedTimeSavingsEndDate": null,
+        "LimitedTimeSavingsMinPrice": null,
+        "LimitedTimeSavingsMaxPrice": null,
+        "LimitedTimeSavingsPercentOff": null,
+        "LimitedTimeSavingsPromoName": null
+      },
+      "BrandSuppressPrice": false,
+      "StoreAvailability": null
+    }
+  ],
+  "Facets": [],
+  "SearchCategoryRootNode": [
+    {
+      "Id": 6000008,
+      "Name": "Women's Clothing",
+      "Count": 5119,
+      "Children": [
+        { "Id": 60145809, "Name": "Activewear", "Count": 3, "Children": null },
+        { "Id": 6000030, "Name": "Dresses", "Count": 5068, "Children": null },
+        {
+          "Id": 6000045,
+          "Name": "Swimsuits & Cover-Ups",
+          "Count": 51,
+          "Children": null
+        },
+        { "Id": 6000035, "Name": "Maternity", "Count": 110, "Children": null },
+        {
+          "Id": 6000024,
+          "Name": "Petite-Size Clothing",
+          "Count": 144,
+          "Children": null
+        },
+        {
+          "Id": 6000025,
+          "Name": "Plus-Size Clothing",
+          "Count": 393,
+          "Children": null
+        }
+      ]
+    },
+    {
+      "Id": 6000015,
+      "Name": "Kids' Clothing",
+      "Count": 172,
+      "Children": [
+        { "Id": 6000198, "Name": "Baby Girls", "Count": 35, "Children": null },
+        {
+          "Id": 6000209,
+          "Name": "Girls (2T-6X)",
+          "Count": 98,
+          "Children": null
+        },
+        { "Id": 6000210, "Name": "Girls (7-16)", "Count": 39, "Children": null }
+      ]
+    }
+  ],
+  "UrlRedirect": null,
+  "HeaderDetails": {
+    "HeaderName": null,
+    "Url": null,
+    "Image": null,
+    "ZeroResultsText": null
+  },
+  "SortHeaders": [
+    "Boosted",
+    "PriceLowToHigh",
+    "PriceHighToLow",
+    "Newest",
+    "Sale",
+    "CustomerRating"
+  ]
+}
