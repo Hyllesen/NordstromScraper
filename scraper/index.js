@@ -4,13 +4,11 @@ const request = require("request-promise").defaults({
     NordApiVersion: 1
   }
 });
-const fs = require("fs");
 
 async function scrape() {
   const url =
     "https://query.ecommerce.api.nordstrom.com/api/queryresults/keywordsearch/?top=10&IncludeFacets=false&Keyword=red%20dresses";
   const json = await request.get(url);
-  fs.writeFileSync("./result.json", json);
 }
 
 scrape();
